@@ -325,7 +325,7 @@ class SimpleDataPage extends ConsumerWidget {
   }
 }
 ```
-![Alt text](assets\image\image.png)
+![Alt text](assets/image/image.png)
 
 #### :package: 2. 搭配build_runner建立單一數據模型
 simple_Data_Provider_buildRunner.dart
@@ -397,7 +397,7 @@ class SimpleDataBuildRunnerPage extends ConsumerWidget {
   }
 }
 ```
-![Alt text](assets\image\image.png)
+![Alt text](assets/image/image.png)
 
 #### :package: 3. 多種變數數據模型
 multiple_Data_Provider.dart
@@ -504,7 +504,7 @@ class MultipleDataPage extends ConsumerWidget {
   }
 }
 ```
-![Alt text](assets\image\image2.png)
+![Alt text](assets/image/image2.png)
 
 #### :package: 4. 搭配build_runner建立多種變數數據模型
 mutiple_Data_BuildRunner_Page.dart
@@ -630,7 +630,7 @@ class MultipleDataBuildRunnerPage extends ConsumerWidget {
   }
 }
 ```
-![Alt text](assets\image\image3.png)
+![Alt text](assets/image/image3.png)
 
 #### :package: 5. int形式 + build_runner 模型
 int_Data_BuildRunner_Page.dart
@@ -698,7 +698,7 @@ class _IntDataPageState extends ConsumerState<IntDataPage> {
 }
 
 ```
-![Alt text](assets\image\image4.png)
+![Alt text](assets/image/image4.png)
 
 #### :package: 6. List形式 + build_runner 模型
 List_Data_BuildRunner.dart
@@ -777,7 +777,7 @@ class ListDataPage extends ConsumerWidget {
   }
 }
 ```
-![Alt text](assets\image\image5.png)
+![Alt text](assets/image/image5.png)
 
 #### :package: 7. Future形式 + build_runner 模型
 future_Data_BuildRunner.dart
@@ -874,7 +874,7 @@ class FutureDataPage extends ConsumerWidget {
   }
 }
 ```
-![Alt text](assets\image\image6.png)
+![Alt text](assets/image/image6.png)
 
 #### :package: 8. Steam形式 + build_runner 模型
 steam_Data_BuilderRunner.dart
@@ -969,4 +969,4 @@ class SteamDataPage extends ConsumerWidget {
   }
 }
 ```
-![Alt text](assets\image\image7.png)
+![Alt text](assets/image/image7.png)
